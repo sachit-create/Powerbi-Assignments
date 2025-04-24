@@ -38,4 +38,4 @@ model_pipeline.fit(X_train, y_train)
 # Save model
 joblib.dump(model_pipeline, 'bike_price_predictor.pkl')
 
-print("✅ Model trained and saved as 'bike_price_predictor.pkl'")
+print("Model trained and saved as 'bike_price_predictor.pkl'")

@@ -17,3 +17,4 @@ This repository contains assignments and mini-projects focused on:
 - NumPy
 - Scikit-learn (sklearn)
 - Matplotlib / Seaborn (optional for visualizations)
+- Flask(and its utilities)

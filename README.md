@@ -18,3 +18,5 @@ This repository contains assignments and mini-projects focused on:
 - Scikit-learn (sklearn)
 - Matplotlib / Seaborn (optional for visualizations)
 - Flask(and its utilities)
+
+## now this repository is discontinued from my side. I will ready for future requests...😊😊
